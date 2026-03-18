@@ -1,0 +1,94 @@
+{
+Kullanıcı Id = 157
+Kullanici Adı = YigitR3TK
+Şifre = y1k2a32004
+İsim Soyisim = Yiğit Kaan Akdeniz
+Eposta = kaan0144y@gmail.com
+Telefon Numarası = 0514 652 36 87
+Rol = Admin
+Departman = Yönetim
+}
+
+{
+Kullanıcı Id = 270
+Kullanici Adı = Deneme_k
+Şifre = deneme123
+İsim Soyisim = Deneme Denemeoglu
+Eposta = deneme@gmail.com
+Telefon Numarası = 0 000 000 00 00
+Rol = Çalışan
+}{
+Kullanıcı Id = 927
+Kullanici Adı = Falafel123
+Şifre = falafel123
+İsim Soyisim = Fal Fel
+Eposta = falafel@gmail.com
+Telefon Numarası = 0 254 896 21 22
+Rol = Çalışan
+Departman = Yazılım
+}
+
+{
+Kullanıcı Id = 569
+Kullanıcı Adı = Mengukan123
+Şifre = mengukan123 
+İsim Soyisim = Mengu Kan
+Eposta = mengukan@gmail.com
+Telefon Numarası = 0524 142 36 58
+Rol = Çalışan
+}
+{
+Kullanıcı Id = 81
+Kullanici Adı = Deneme_b
+Şifre = deneme1234 
+İsim Soyisim = Deneme Denemecioğlu
+Eposta = denemedenemecioglu@gmail.com
+Telefon Numarası = 1231313131
+Rol = Çalışan
+}
+{
+Kullanıcı Id = 837
+Kullanici Adı = Deneme_Calisan
+Şifre = deneme123 
+İsim Soyisim = Deneme Çalışan
+Eposta = denemecalisan@gmail.com
+Telefon Numarası = 0512 478 96 23
+Rol = Çalışan
+}{
+Kullanıcı Id = 488
+Kullanici Adı = Muratbaba
+Şifre = murat123 
+İsim Soyisim = Murat Gültekin
+Eposta = muratgultekin@gmail.com
+Telefon Numarası = 0548 653 21 45
+Rol = Çalışan
+Departman = Satış
+}
+{
+Kullanıcı Id = 263
+Kullanici Adı = Metehann
+Şifre = metehan123 
+İsim Soyisim = Metehan Akdeniz
+Eposta = metehanakdeniz@gmail.com
+Telefon Numarası = 0542 147 23 59
+Rol = Çalışan
+Departman = Atanmamış
+}
+{
+Kullanıcı Id = 397
+Kullanici Adı = Leyla123
+Şifre = leyla123 
+İsim Soyisim = Leyla Çiçek
+Eposta = leylacicek@gmail.com
+Telefon Numarası = 0514 786 32 11
+Rol = Çalışan
+Departman = İnsan Kaynakları
+}{
+Kullanıcı Id = 608
+Kullanıcı Adı = Ahmetbaba
+Şifre = Ahmet123 
+İsim Soyisim = Ahmet Ulaş
+Eposta = ahmetbaba@gmail.com
+Telefon Numarası = 0572 142 36 85
+Rol = Çalışan
+}

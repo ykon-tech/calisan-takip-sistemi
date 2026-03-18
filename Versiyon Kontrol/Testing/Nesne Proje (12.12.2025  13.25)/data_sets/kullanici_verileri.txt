@@ -1,0 +1,94 @@
+{
+Kullanıcı Id = 329
+Kullanici Adı = YigitR3TK
+Şifre = 123456789
+İsim Soyisim = Yiğit Kaan Akdeniz
+Eposta = kaan0144y@gmail.com
+Telefon Numarası = +90 578 345 14 25
+}
+{
+Kullanıcı Id = 733
+Kullanici Adı = falafel
+Şifre = 123 
+İsim Soyisim = dwad
+Eposta = dawd
+Telefon Numarası = dwad
+}
+{
+Kullanıcı Id = 298
+Kullanici Adı = ali44
+Şifre = alibaba44 
+İsim Soyisim = Ali
+Eposta = ali1234@gmail.com
+Telefon Numarası = +90 514 147 36 20
+}
+{
+Kullanıcı Id = 826
+Kullanici Adı = umutabi
+Şifre = umutabi44 
+İsim Soyisim = Umut Güneş
+Eposta = umutgunes@gmail.com
+Telefon Numarası = +90 521 783 45 98
+}
+{
+Kullanıcı Id = 169
+Kullanici Adı = deneme_K
+Şifre = deneme123 
+İsim Soyisim = Deneme Denemeoğlu
+Eposta = denemeoglu@gmail.com
+Telefon Numarası = 0578 900 32 15
+}
+{
+Kullanıcı Id = 423
+Kullanici Adı = Koygote3kurusa
+Şifre = 123456Bugra
+İsim Soyisim = pust
+Eposta = demirrbugraa123@gmail.com
+Telefon Numarası = 05445696116
+}
+{
+Kullanıcı Id = 848
+Kullanici Adı = Mervebulut123
+Şifre = mervebulut123 
+İsim Soyisim = Merve Bulut
+Eposta = mervebulut@gmail.com
+Telefon Numarası = 0573 354 14 25
+Rol = Çalışan
+}
+{
+Kullanıcı Id = 258
+Kullanici Adı = Tugce123
+Şifre = tugce123 
+İsim Soyisim = Tuğçe Büyük
+Eposta = tugcebuyuk@gmail.com
+Telefon Numarası = 0544 444 23 13
+Rol = Çalışan
+}
+{
+Kullanıcı Id = 508
+Kullanici Adı = Aslibaba123
+Şifre = aslibaba123 
+İsim Soyisim = Aslı Yurttaş
+Eposta = asliyurttas@gmail.com
+Telefon Numarası = 0589 666 21 47
+Rol = Çalışan
+}
+{
+Kullanıcı Id = 253
+Kullanici Adı = Aysekurt123
+Şifre = Aysekurt123 
+İsim Soyisim = Ayşe Kurt
+Eposta = aysekurt@gmail.com
+Telefon Numarası = 0574 222 35 14
+Rol = Çalışan
+}
+{
+Kullanıcı Id = 969
+Kullanici Adı = Mustafagul123
+Şifre = Mustafagul123 
+İsim Soyisim = Mustafa Gül
+Eposta = mustafagul@gmail.com
+Telefon Numarası = 0542 212 36 88
+Rol = Çalışan
+}
+
