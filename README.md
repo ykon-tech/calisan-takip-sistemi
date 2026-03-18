@@ -52,7 +52,16 @@ Proje, sistematik olarak 6 ana fazda geliştirilmiştir:
 6.  **Faz 6:** Servis mimarisine geçiş (Validator & Email Service ayrımı).
 
 ---
+## 🛠 Kurulum ve Çalıştırma
 
+Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımı izleyin:
+
+1. **Projeyi Klonlayın:**
+   ```bash
+   git clone [https://github.com/kullaniciadi/mesai-takip-otomasyonu.git](https://github.com/kullaniciadi/mesai-takip-otomasyonu.git)
+   cd mesai-takip-otomasyonu
+---
+---
 ## 👤 Geliştirici
 **Yiğit Kaan Akdeniz | Buğra Demir**
 * Bilgisayar Mühendisliği 2. Sınıf Öğrencisi
